@@ -100,7 +100,7 @@ export default function App() {
   console.log(
     JSON.stringify(
       {
-        count: slides.length, // 20 items
+        count: slides.length, // 30 items
         slides,
       },
       null,
